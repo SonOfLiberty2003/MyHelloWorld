@@ -10,6 +10,9 @@ namespace MyHelloWorld
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("This is my frist Test");
+            Console.ReadKey();
         }
     }
 }
